@@ -1,4 +1,19 @@
 {
-  "name": "helloworld",
-  "main": "index.html"
+  "name": "nw-helloworld",
+  "version": "1.0.0",
+  "description": "NW.js Helloworld App",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxd3vin/nw-helloworld.git"
+  },
+  "author": "Devin Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxd3vin/nw-helloworld/issues"
+  },
+  "homepage": "https://github.com/xxd3vin/nw-helloworld#readme"
 }
