@@ -4,6 +4,7 @@
   "description": "NW.js Helloworld App",
   "main": "index.html",
   "scripts": {
+    "start": "nw .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/xxd3vin/nw-helloworld/issues"
   },
-  "homepage": "https://github.com/xxd3vin/nw-helloworld#readme"
+  "homepage": "https://github.com/xxd3vin/nw-helloworld#readme",
+  "dependencies": {
+    "nw": "^0.33.3"
+  }
 }
